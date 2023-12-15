@@ -1,7 +1,8 @@
 # Software-Security
- 
-~This README file will also address a few prompts that my professor asked at the end of the course.
 
+---------------------------------------------------------------------------------------------------
+~This README file will also address a few prompts that my professor asked at the end of the course.
+---------------------------------------------------------------------------------------------------
  
 =Briefly summarize your client, Artemis Financial, and their software requirements. Who was the client? What issue did they want you to address?
 
